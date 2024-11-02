@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I am Vishvaa Logeswaran! 👋🏼
 
-<!--
-**Vishvaa08/Vishvaa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###👨‍💻 About Me
+- 🎓 Education : Bachelors Degree in Computing
+- 🔭 Working On : TravelTrail
 
-Here are some ideas to get you started:
+###🌱 Hobbies & Interests
+- 🎮 Gaming : Dota 2, COD, God of War
+- 🎧 Music :
+- 🎨 Art & Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###⚙️ My Tech Stack :
+- 💻 Languages: HTML, CSS, JS
+
+- ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
