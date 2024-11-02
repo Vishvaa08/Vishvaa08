@@ -14,6 +14,6 @@
 
 
 - ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishvaa08&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishvaa08&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvaa08&layout=default&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvaa08&layout=compact&theme=merko)
